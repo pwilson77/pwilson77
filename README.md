@@ -3,7 +3,7 @@
 I'm a software engineer working in Accra, Ghana.
 
 # NOW
-- Working as a software engineer at [Turntabl]([https://www.example.com](https://turntabl.io/))
+- Working as a software engineer at [Turntabl](https://turntabl.io)
 
 # BIO
 - I'm a software engineer with more than 3 years experience developing applications
