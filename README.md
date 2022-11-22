@@ -13,6 +13,11 @@ I'm a software engineer working in Accra, Ghana.
 -  Websites built: [SchoolBidz](https://schoolbidz.com/)
 -  Connect with me on [Twitter](https://twitter.com/YirenkyiPhilip) and [LinkedIn](https://www.linkedin.com/in/philip-yirenkyi/)
 
+# BLOCKCHAIN EXP
+- An [NFT Launchpad](https://github.com/AltDeckOrganization) on Solana.
+- Collaborated with a team of devs for an [event ticketing Dapp](https://github.com/encode-g16/nft-ticketing) on Ethereum
+- [Fundraising Dapp](https://github.com/pwilson77/fundraiser-cello) on Cello 
+
 <!--
 **pwilson77/pwilson77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
