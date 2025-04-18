@@ -41,7 +41,7 @@ I'm a **full-stack engineer** with a strong foundation in frontend and backend d
 ## 📬 Let's Connect
 
 - 💌 [Email me](mailto:p.o.yirenkyi@gmail.com)  
-- 🧑‍💻 [My Resume](#) (https://docs.google.com/document/d/16pl48veWhkClNn8WmWQNK31EHdeGxOoy6XLZ6Oh4LT4/edit?usp=sharing)  
+- 🧑‍💻 [My Resume](https://docs.google.com/document/d/16pl48veWhkClNn8WmWQNK31EHdeGxOoy6XLZ6Oh4LT4/edit?usp=sharing)  
 - 🌐 [LinkedIn](https://linkedin.com/in/philip-yirenkyi)
 
 Thanks for stopping by! ✨
